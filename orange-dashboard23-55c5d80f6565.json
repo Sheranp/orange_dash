@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "orange-dashboard23",
+  "private_key_id": "55c5d80f65658589dd06f42fd59150d6c97adce4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDro6I4BhBW658\nMR6Nr1qEBOWdQ5C2LxhU43AwoQAjn/rpcepKBKQoREMLuhIjxURhzw7Cm1Q/DkJi\njWOKjjjIOdLL/59xUiDoIbI6zS8goMAm2KqOwEEXd4vsrQ68HOg7r7ffPD9vBG41\n1J6evH2gYs4bWMTQrB3doNXmIXr/laE4xg3x63FVjlUvWelk3jJ8Dsz6i2ga92MT\nNhg6bGOPn3/RNSdGe/mC31900eaGDzRO7bKivnPUSsJ40lm4DbHOhpnzBvA7ltUH\njZccdx9JxAite+XS+tX4VvrqibDCVDpaxxcZxRKNWCGGIo8A629TAOSUovAINFXn\nYZoWrfYHAgMBAAECggEABQqup3cNwdI6keIlNwypPEMbl9q1BekXnRBNxHhRegtH\nukUq/oSOijYqtIGk6cgjQ+em1LSOuMqFmHWPBOVwE4l8hz8HmWtM2YcpLIoCZPNf\nWO8aLeHW4NVaPelo5TlwHJNaVjriKNpvXrmxJBve8E6e9YKHclB+uynjlWpzpA7L\nr+28VvrHI6LoNL3L1YaTyhzF5UYOeoKFYrw4aX/l2Za6HjMdvqY5xfnMJ3Fr4U37\nB+oBeMtFpR15CoSCJ9moI6BhQhfAlRqavdhvNxk5KOyx4EZ4ycVVZQzgetHPCCxZ\nPfhhwbklrVXIGmPEjBfhQftNKdbSG636gkNIMDfiQQKBgQDikKbin2o4XIzZSmdu\nGkwttlQfzkwPCNYUWfyx/97RD19jEbU107Nd8CNBPTYpVCmj9E8bmgpeSRQKEAYo\ni6D+7RfHH75fGHpAJZ2/hT+Dnz2fDBRdOEV3X0z1NngfFdRbYNwtxPYjJTkCZjFc\nRK6ZQB04DiMbFt2cFKIk9Ivk4QKBgQDdGsIXWmMvnHeClbBpKtau8QEJ4gzzRbGr\n/dP3rlF/vuDlVnMqeNXrPQXhnxY5RPQEVXngNQu3BBQljWdWZemtNhYzS3lZmkxl\nPiwwrDlwUTc8UiCsD5SYztYB6J3Hexn+h6lbU0Gb1LAttCr4gT9gkHATT838WkF9\nKPGn6fFP5wKBgGpTQD5yWcMBjAgdZtTA+qcpPel/Qyp7FxyN7o0Ka2LpN/aiRMxy\nAWdAXwsq0tQqbzBGYyms7Ni6qvDd/EXi4TdBxTrppsmyDw0zmghbXCdFAAI4BQaK\nde9DhjY9zbmo4PPRTQMdv/VWbp61nsySXu4ErLG10LvRy0aIWF/HdC+BAoGBAKGt\nGVPeQjzkWvdf4bllG8qcbDf/1Zxlz/+GAeNQ0kNpHiZUyq254iK7YnuSyrth0lUA\n87eg0konb1vuRCwHJZIExMMJY1jD3S0DA2kr5mxc1tkC7OUkF3KNfCu1Hvpo558Z\nMBuZi5YZNiKVZf6E9AT2WR2l82edz9lngR1ZkZztAoGAKmxBX+3e8V+IVScKxJT7\njvlWeVeyvcZjqK0ccYCaErvf4knHlCnsMWcQRyBJPyfY0Ab0M42yzFvRq35ejj05\nxrruU6T8GSLKsGJ/sV1ByldTQhuVA2LN7IPBZnpK+pQ7iEGp1l8smV9eBqetvoPm\nwLKyUb3lb3sO4yiax/ZaXmc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "orangedash@orange-dashboard23.iam.gserviceaccount.com",
+  "client_id": "111465795268094127354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/orangedash%40orange-dashboard23.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
