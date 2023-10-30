@@ -7,7 +7,7 @@ from google.oauth2.service_account import Credentials
 import gspread
 
 st.set_page_config(layout="wide")
-st.title('Inbound_DashBoard1')
+st.title('Inbound_DashBoard')
 
 # Load your data
 creds = Credentials.from_service_account_file('orange-dashboard23-55c5d80f6565.json')
